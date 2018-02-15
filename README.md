@@ -1,1 +1,1 @@
-# python-data-science
+# mirnovo-dnn-classifier
